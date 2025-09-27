@@ -22,59 +22,12 @@ Car buyers expect seamless, data-driven experiences when evaluating dealerships 
 
 | Tech Stack                        | Reasoning                                                                            |
 |-----------------------------------|--------------------------------------------------------------------------------------|
-| React                             | For dynamic, responsive UX and fast SPA navigation.                                  |
-| Python/Django/SQLite              | Rapid user auth, ORM-based modeling, tried-and-true session management.              |
-| Node.js/Express/MongoDB           | Built for high-concurrency APIs, document data, microservices, and flexible scaling. |
-| Python/Flask/NLTK                 | Custom microservice leveraging NLP for real-time review sentiment assessment.        |
-| Django Proxy Services             | Seamless bridge between Django and microservices, ensuring data consistency.         |
-| Docker                            | Containerized services for CI/CD automation, scalability, and cloud deploy.          |
+| React                             | Used to build an interactive UI for login, registration, dealership listings, and reviews. |
+| Python, Django, SQLite              | Rapid user auth, ORM-based modeling, tried-and-true session management.              |
+| Node.js, Express, MongoDB           | Handles dealer and review management in a NoSQL schema for flexibility. Node.js + Express chosen for non-blocking I/O and scalability. |
+| Python, Flask, NLTK                 | Adds AI-driven insights to enhance decision-making for dealerships.        |
+| Docker                            | Each service is containerized with Docker for consistent environments.         |
 
-
-
-
-🎨 Frontend: React.js
-
-Used to build an interactive UI for login, registration, dealership listings, and reviews.
-
-Chosen for its component-based architecture, reusability, and seamless integration with backend APIs.
-
-⚙️ Backend Core: Python, Django, SQLite
-
-Django manages user authentication, models, and proxy services.
-
-SQLite stores structured data like Car Make and Car Model.
-
-Provides a secure, fast, and maintainable backend for the core web application.
-
-🗄️ Reviews & Dealers Service: Node.js, Express, MongoDB
-
-Handles dealer and review management in a NoSQL schema for flexibility.
-
-Dockerized for portability and deployed as a microservice.
-
-Node.js + Express chosen for non-blocking I/O and scalability.
-
-🤖 Sentiment Analysis Service: Python, Flask, NLTK
-
-Deployed on IBM Cloud Code Engine.
-
-Analyzes review text and classifies sentiment as positive, negative, or neutral.
-
-Adds AI-driven insights to enhance decision-making for dealerships.
-
-📦 Containerization & Deployment: Docker & Kubernetes
-
-Each service is containerized with Docker for consistent environments.
-
-Application deployed on Kubernetes for scalable orchestration.
-
-Ensures high availability, portability, and maintainability.
-
-🔄 CI/CD: GitHub Actions + Linting + Cloud IDE Testing
-
-Automated pipelines for code quality checks and deployments.
-
-Enables continuous testing and integration for reliable releases.
 
 🏗️ Solution Architecture
 
