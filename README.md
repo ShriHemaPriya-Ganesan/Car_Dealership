@@ -44,13 +44,10 @@ They often face a fragmented online experience, limited transparency into dealer
 <img width="1597" height="833" alt="image" src="https://github.com/user-attachments/assets/f8731193-74a3-4f6a-a6e3-8ac121e97e45" />
 
 
-**Authenticated users can post new reviews, instantly analyzed for sentiment.**
-<img width="1917" height="902" alt="admin_login" src="https://github.com/user-attachments/assets/79ed1eb5-d8cd-48dd-bd60-171f7e0eeea2" />
-<img width="1078" height="441" alt="image" src="https://github.com/user-attachments/assets/a3c281da-fea8-4fc8-914e-e8c6411f06cd" />
-
-
 **Every dealership and review update is reflected dynamically, fostering transparency and trust.**
+<img width="1917" height="902" alt="admin_login" src="https://github.com/user-attachments/assets/79ed1eb5-d8cd-48dd-bd60-171f7e0eeea2" />
 <img width="1900" height="907" alt="car_models" src="https://github.com/user-attachments/assets/74aaa4cf-75ec-48ad-b8e8-e3652232bbca" />
 <img width="1918" height="908" alt="cars" src="https://github.com/user-attachments/assets/36534be5-024b-4042-820f-382db93b0a0d" />
+<img width="1078" height="441" alt="image" src="https://github.com/user-attachments/assets/a3c281da-fea8-4fc8-914e-e8c6411f06cd" />
 
 
