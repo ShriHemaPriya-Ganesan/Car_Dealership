@@ -29,7 +29,7 @@ They often face a fragmented online experience, limited transparency into dealer
 |Frontend| React                             | Used to build an interactive UI for login, registration, dealership listings, and reviews. |
 |Backend| Python, Django, SQLite             | Rapid user auth, ORM-based modeling, tried-and-true session management.              |
 |Dealership & Reviews | Node.js, Express, MongoDB            | Handles dealer and review management in a NoSQL schema for flexibility. Node.js + Express chosen for non-blocking I/O and scalability. |
-|Sentiment Analysis | Python, Flask, NLTK       | Adds AI-driven insights to enhance decision-making for dealerships.        |
+|Sentiment Analysis | NLTK       | Adds AI-driven insights to enhance decision-making for dealerships.        |
 |Deployment| Docker                           | Each service is containerized with Docker for consistent environments.         |
 
 **🧑‍💻 Application Work Flow**
