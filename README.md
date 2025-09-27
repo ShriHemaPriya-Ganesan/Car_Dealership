@@ -20,7 +20,18 @@ Car buyers expect seamless, data-driven experiences when evaluating dealerships 
 
 4. Admins can oversee car models, makes, and dealership information using Django’s admin suite and APIs.
 
-🛠️ Tech Stack & Reasoning
+| Tech Stack                        | Reasoning                                                                            |
+|-----------------------------------|--------------------------------------------------------------------------------------|
+| React                             | For dynamic, responsive UX and fast SPA navigation.                                  |
+| Python/Django/SQLite              | Rapid user auth, ORM-based modeling, tried-and-true session management.              |
+| Node.js/Express/MongoDB           | Built for high-concurrency APIs, document data, microservices, and flexible scaling. |
+| Python/Flask/NLTK                 | Custom microservice leveraging NLP for real-time review sentiment assessment.        |
+| Django Proxy Services             | Seamless bridge between Django and microservices, ensuring data consistency.         |
+| Docker                            | Containerized services for CI/CD automation, scalability, and cloud deploy.          |
+
+
+
+
 🎨 Frontend: React.js
 
 Used to build an interactive UI for login, registration, dealership listings, and reviews.
