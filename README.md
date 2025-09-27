@@ -32,14 +32,26 @@ They often face a fragmented online experience, limited transparency into dealer
 |Sentiment Analysis | Python, Flask, NLTK       | Adds AI-driven insights to enhance decision-making for dealerships.        |
 |Deployment| Docker                           | Each service is containerized with Docker for consistent environments.         |
 
-**🧑‍💻 Application Flow**
+**🧑‍💻 Application Work Flow**
 
 **Landing page offers registration and login, plus intuitive access to all dealerships (no login required).**
+<img width="1900" height="908" alt="Dealership_home_page" src="https://github.com/user-attachments/assets/d2110ba8-c882-4dd6-979c-c1c76cb3e455" />
+<img width="1057" height="876" alt="sign-up" src="https://github.com/user-attachments/assets/38c2110f-34f0-4ef7-a4a3-50a1665472df" />
+
 
 **Users can view company background (About Us), contact details, and detailed dealership inventories.**
+<img width="1901" height="907" alt="about_us" src="https://github.com/user-attachments/assets/e701f233-7917-456f-a898-67635ecb4280" />
+<img width="1597" height="833" alt="image" src="https://github.com/user-attachments/assets/f8731193-74a3-4f6a-a6e3-8ac121e97e45" />
+
 
 **Authenticated users can post new reviews, instantly analyzed for sentiment.**
+<img width="1917" height="902" alt="admin_login" src="https://github.com/user-attachments/assets/79ed1eb5-d8cd-48dd-bd60-171f7e0eeea2" />
+<img width="1917" height="905" alt="admin_logout" src="https://github.com/user-attachments/assets/13981259-4457-47bb-9d2e-de35411919f0" />
+<img width="1078" height="441" alt="image" src="https://github.com/user-attachments/assets/a3c281da-fea8-4fc8-914e-e8c6411f06cd" />
+
 
 **Every dealership and review update is reflected dynamically, fostering transparency and trust.**
+<img width="1900" height="907" alt="car_models" src="https://github.com/user-attachments/assets/74aaa4cf-75ec-48ad-b8e8-e3652232bbca" />
+<img width="1918" height="908" alt="cars" src="https://github.com/user-attachments/assets/36534be5-024b-4042-820f-382db93b0a0d" />
 
 
