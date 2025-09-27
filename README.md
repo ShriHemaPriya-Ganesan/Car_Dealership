@@ -1,4 +1,4 @@
-**🚗 Car Dealership Web Application**
+**🚗 Car Dealership**
 
 Car buyers expect seamless, data-driven experiences when evaluating dealerships and sharing feedback. However, many existing platforms lack intuitive interfaces, real-time sentiment insights and secure, scalable infrastructure for handling both user-generated reviews and dealership data. This project bridges these gaps, delivering a robust, full-stack dealership solution with microservices at its core. 
 
