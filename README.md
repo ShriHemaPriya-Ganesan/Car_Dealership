@@ -20,13 +20,13 @@ Car buyers expect seamless, data-driven experiences when evaluating dealerships 
 
 4. Admins can oversee car models, makes, and dealership information using Django’s admin suite and APIs.
 
-| Tech Stack                        | Reasoning                                                                            |
-|-----------------------------------|--------------------------------------------------------------------------------------|
-| React - Frontend                            | Used to build an interactive UI for login, registration, dealership listings, and reviews. |
-| Python, Django, SQLite - Backend             | Rapid user auth, ORM-based modeling, tried-and-true session management.              |
-| Node.js, Express, MongoDB - Dealership & Reviews           | Handles dealer and review management in a NoSQL schema for flexibility. Node.js + Express chosen for non-blocking I/O and scalability. |
-| Python, Flask, NLTK -Sentiment Analysis       | Adds AI-driven insights to enhance decision-making for dealerships.        |
-| Docker - Deployment                          | Each service is containerized with Docker for consistent environments.         |
+| Layer | Tech Stack                        | Reasoning                                                                            |
+|-------|-----------------------------------|--------------------------------------------------------------------------------------|
+|Frontend| React                             | Used to build an interactive UI for login, registration, dealership listings, and reviews. |
+|Backend| Python, Django, SQLite             | Rapid user auth, ORM-based modeling, tried-and-true session management.              |
+|Dealership & Reviews | Node.js, Express, MongoDB            | Handles dealer and review management in a NoSQL schema for flexibility. Node.js + Express chosen for non-blocking I/O and scalability. |
+|Sentiment Analysis | Python, Flask, NLTK       | Adds AI-driven insights to enhance decision-making for dealerships.        |
+|Deployment| Docker                           | Each service is containerized with Docker for consistent environments.         |
 
 
 🏗️ Solution Architecture
