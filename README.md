@@ -34,7 +34,7 @@ They often face a fragmented online experience, limited transparency into dealer
 
 **🧑‍💻 Application Work Flow**
 
-**Landing page offers registration and login, plus intuitive access to all dealerships (no login required).**
+**Landing page offers registration and login, plus intuitive access to all dealerships.**
 <img width="1900" height="908" alt="Dealership_home_page" src="https://github.com/user-attachments/assets/d2110ba8-c882-4dd6-979c-c1c76cb3e455" />
 <img width="1057" height="876" alt="sign-up" src="https://github.com/user-attachments/assets/38c2110f-34f0-4ef7-a4a3-50a1665472df" />
 
@@ -46,7 +46,6 @@ They often face a fragmented online experience, limited transparency into dealer
 
 **Authenticated users can post new reviews, instantly analyzed for sentiment.**
 <img width="1917" height="902" alt="admin_login" src="https://github.com/user-attachments/assets/79ed1eb5-d8cd-48dd-bd60-171f7e0eeea2" />
-<img width="1917" height="905" alt="admin_logout" src="https://github.com/user-attachments/assets/13981259-4457-47bb-9d2e-de35411919f0" />
 <img width="1078" height="441" alt="image" src="https://github.com/user-attachments/assets/a3c281da-fea8-4fc8-914e-e8c6411f06cd" />
 
 
