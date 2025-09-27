@@ -21,6 +21,7 @@ Car buyers expect seamless, data-driven experiences when evaluating dealerships 
 4. Admins can oversee car models, makes, and dealership information using Django’s admin suite and APIs.
 
 **🏗️ Solution Architecture**
+
 | Layer | Tech Stack                        | Reasoning                                                                            |
 |-------|-----------------------------------|--------------------------------------------------------------------------------------|
 |Frontend| React                             | Used to build an interactive UI for login, registration, dealership listings, and reviews. |
@@ -28,4 +29,15 @@ Car buyers expect seamless, data-driven experiences when evaluating dealerships 
 |Dealership & Reviews | Node.js, Express, MongoDB            | Handles dealer and review management in a NoSQL schema for flexibility. Node.js + Express chosen for non-blocking I/O and scalability. |
 |Sentiment Analysis | Python, Flask, NLTK       | Adds AI-driven insights to enhance decision-making for dealerships.        |
 |Deployment| Docker                           | Each service is containerized with Docker for consistent environments.         |
+
+**🧑‍💻 Application Flow**
+
+**Landing page offers registration and login, plus intuitive access to all dealerships (no login required).**
+
+**Users can view company background (About Us), contact details, and detailed dealership inventories.**
+
+**Authenticated users can post new reviews, instantly analyzed for sentiment.**
+
+**Every dealership and review update is reflected dynamically, fostering transparency and trust.**
+
 
