@@ -1,6 +1,7 @@
 **🚗 Car Dealership**
 
 Car buyers expect seamless, data-driven experiences when evaluating dealerships and sharing feedback. However, many existing platforms lack intuitive interfaces, real-time sentiment insights and secure, scalable infrastructure for handling both user-generated reviews and dealership data. This project bridges these gaps, delivering a robust, full-stack dealership solution with microservices at its core. 
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://drive.google.com/file/d/1Ik5TyEhfdDw1t61WiLNjrY57znuU9c0d/view?usp=sharing)
 
 They often face a fragmented online experience, limited transparency into dealership reputations, and cumbersome review processes. Car dealerships themselves often struggle with integrating user sentiment analytics and maintaining agile, responsive web platforms. There’s a strong need for a unified system that enables users to:
 
